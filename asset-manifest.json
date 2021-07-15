@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://pristineshaniadl.github.io/csb-vygce/static/css/main.3cfd58d1.chunk.css",
+    "main.js": "https://pristineshaniadl.github.io/csb-vygce/static/js/main.68f8f3ee.chunk.js",
+    "main.js.map": "https://pristineshaniadl.github.io/csb-vygce/static/js/main.68f8f3ee.chunk.js.map",
+    "runtime-main.js": "https://pristineshaniadl.github.io/csb-vygce/static/js/runtime-main.404b5051.js",
+    "runtime-main.js.map": "https://pristineshaniadl.github.io/csb-vygce/static/js/runtime-main.404b5051.js.map",
+    "static/js/2.7960402c.chunk.js": "https://pristineshaniadl.github.io/csb-vygce/static/js/2.7960402c.chunk.js",
+    "static/js/2.7960402c.chunk.js.map": "https://pristineshaniadl.github.io/csb-vygce/static/js/2.7960402c.chunk.js.map",
+    "index.html": "https://pristineshaniadl.github.io/csb-vygce/index.html",
+    "static/css/main.3cfd58d1.chunk.css.map": "https://pristineshaniadl.github.io/csb-vygce/static/css/main.3cfd58d1.chunk.css.map",
+    "static/js/2.7960402c.chunk.js.LICENSE.txt": "https://pristineshaniadl.github.io/csb-vygce/static/js/2.7960402c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.404b5051.js",
+    "static/js/2.7960402c.chunk.js",
+    "static/css/main.3cfd58d1.chunk.css",
+    "static/js/main.68f8f3ee.chunk.js"
+  ]
+}
